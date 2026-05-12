@@ -107,3 +107,5 @@ inline bool Checkbox(const char* label, bool* v,
     ImGui::SetCursorScreenPos(ImVec2(pos.x, pos.y + row_h + 3.0f));
     return clicked;
 }
+
+}
